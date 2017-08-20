@@ -1,5 +1,7 @@
 # MgwSlideShow
-
+<div style="text-align:center">
+<img src="https://preview.ibb.co/bU6S7Q/Capture.jpg" >
+</div>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
 ## Development server
